@@ -25,7 +25,7 @@ steps:
     backendType: 'azurerm'
     backendServiceArm: 'AzureARMConnectionDev'
     ensureBackend: true
-    backendAzureRmResourceGroupName: '1-528272b0-playground-sandbox'
+    backendAzureRmResourceGroupName: 'eus-aks-terraform-rg'
     backendAzureRmResourceGroupLocation: 'eastus'
     backendAzureRmStorageAccountName: 'dev01straccnt01'
     backendAzureRmContainerName: 'dev01strcontainer01'
